@@ -163,7 +163,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/w2h_userbot")
+                            url=f"https://t.me/Sanki_BOTs")
                ],
                [
                     InlineKeyboardButton(
@@ -172,12 +172,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/Ravan_feelings")
+                            url=f"https://t.me/Feelings_of_Astu")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/W2hsupport")
+                            url=f"https://t.me/The_Friend_Circle")
                    
                 ]
             ]
@@ -216,7 +216,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/w2h_userbot")
+                            url=f"https://t.me/Sanki_BOTs")
                ],
                [
                     InlineKeyboardButton(
@@ -225,12 +225,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/Ravan_feelings")
+                            url=f"https://t.me/Feelings_of_Astu")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/W2hsupport")
+                            url=f"https://t.me/The_friend_Circle")
                    
                 ]
             ]
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/W2h_userbot")
+                            url=f"https://t.me/Sanki_BOTs")
                ],
                [
                     InlineKeyboardButton(
@@ -255,12 +255,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/Ravan_feelings")
+                            url=f"https://t.me/Feelings_of_Astu")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/W2hsupport")
+                            url=f"https://t.me/The_Friend_Circle")
                    
                 ]
             ]
@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/w2h_userbot")
+                            url=f"https://t.me/Sanki_BOTs")
                ],
                [
                     InlineKeyboardButton(
@@ -323,12 +323,12 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🥀",
-                            url=f"https://t.me/Ravan_feelings")
+                            url=f"https://t.me/Feelings_of_Astu")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/W2hsupport")
+                            url=f"https://t.me/The_Friend_Circle")
                    
                 ]
             ]
